@@ -1,0 +1,27 @@
+.head-1{
+    text-align: center;
+}
+
+.para{
+    font-size:20.4;
+}
+
+ol{
+    font-size:20.4;
+}
+
+ul{
+    list-style-type: disc;
+    font-size:20.4;
+}
+
+.folder-box {
+    background: #f4f4f4;
+    padding: 15px;
+    border-radius: 8px;
+    width: fit-content;
+    font-family: "Courier New", monospace;
+    font-size: 16px;
+    line-height: 22px;
+    border: 1px solid #ccc;
+}
